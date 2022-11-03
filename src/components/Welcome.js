@@ -3,9 +3,9 @@ import welcomeImages from "./data/welcome_images.json";
 
 const Welcome = () => {
   return(
-    <div class="scene" id="welcome">
-    <article class="content">
-      <div class="gallery">
+    <div className="scene" id="welcome">
+    <article className="content">
+      <div clasName="gallery">
         {welcomeImages.map((image) => {
           if (image.class){
             return <img className={image.class} src={image.src} alt={image.alt} />
