@@ -1,0 +1,26 @@
+[
+  {
+    "title":"Check-in",
+    "info":"3:00 PM"
+  },
+  {
+    "title":"Check-out",
+    "info":"11:00 AM"
+  },
+  {
+    "title":"Parking",
+    "info":"Self-parking in the underground garage is ￡15 per day and valet-parking is ￡50 per day."
+  },
+  {
+    "title":"Airport Shuttle",
+    "info":"Our complimentary airport shuttles leave every hour on the hour, and make trips to Heathrow and Gatwick airports."
+  },
+  {
+    "title":"Trains",
+    "info":"The nearest Underground station is at Leicester Square."
+  },
+  {
+    "title":"Pet Policy",
+    "info":"Pets of all sizes and types are allowed in designated pet rooms, and the specified common areas. Service animals are allowed everywhere."
+  }
+]
